@@ -6,4 +6,4 @@ Test Project Desc
 
 ==========================
 
-Notifications alert(s)
+Notifications alert(s) using Javascript.
